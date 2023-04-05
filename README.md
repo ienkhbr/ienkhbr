@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ienkhbr
-- 🌱 I’m currently learning Computer Science 110.
+- 🌱 I’m currently learning Computer Science 143.
 - 📫 How to reach me ienkhbr@outlook.com
 
 <!---
