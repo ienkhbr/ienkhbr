@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ienkhbr
+- 👋 Hi, I’m Enkhbayar.
 - 🌱 I’m currently learning Computer Science 143.
-- 📫 How to reach me ienkhbr@outlook.com
+- 📫 Reach me @ ienkhbr@outlook.com
 
 <!---
 ienkhbr/ienkhbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
